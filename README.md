@@ -4,7 +4,7 @@ Danilo Cerdas S | Portfolio 🌐 | SanJosé,CostaRica
  Expert in teammanagement and fostering a collaborative environment toensureapplication stability andreliability.
 
 🚀 Live Demo
- Visit my portfolio at [DouglasG04](https://github.com/Alephdjcs) GitHub Pages to explore my projects and skills.
+ Visit my portfolio at (https://github.com/Alephdjcs) GitHub Pages to explore my projects and skills.
 
 🛠️PROFESSIONAL SKILLS
    Software infrastructure and clouddevelopment, knowledge of microservices architecture.
@@ -21,5 +21,7 @@ Danilo Cerdas S | Portfolio 🌐 | SanJosé,CostaRica
 
 📧 CONTACT INFORMATION
   Tel// (506)72961591
+  
   Email// danilocerdas.131@gmail.com
+  
   Linkedin// https://www.linkedin.com/in/cerdasd/
