@@ -1,4 +1,4 @@
-Danilo Cerdas S | Portfolio 🌐 | SanJosé,CostaRica  
+🌐  Danilo Cerdas S | Portfolio | SanJosé,CostaRica  
 
  High-performing DevOps Engineer with a strong background in softwaredevelopment andover 03years of experience in the IT industry. Proficient in DevOps practices, pipelines, and cloud technologies such as Azure. 
  
