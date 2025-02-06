@@ -4,7 +4,7 @@ Danilo Cerdas S | Portfolio 🌐 | SanJosé,CostaRica
  
  Expert in teammanagement and fostering a collaborative environment toensureapplication stability andreliability.
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🚀 Live Demo
  Visit my portfolio at (https://github.com/Alephdjcs) GitHub Pages to explore my projects and skills.
